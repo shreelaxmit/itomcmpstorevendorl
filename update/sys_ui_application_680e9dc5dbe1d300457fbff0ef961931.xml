@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>ConfigPuppet</name>
+        <order/>
+        <roles>x_teu_configpuppet.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>shreelaxmi.tigadi@snc</sys_created_by>
+        <sys_created_on>2018-04-16 21:23:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>680e9dc5dbe1d300457fbff0ef961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ConfigPuppet</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sys_ui_application_680e9dc5dbe1d300457fbff0ef961931</sys_update_name>
+        <sys_updated_by>shreelaxmi.tigadi@snc</sys_updated_by>
+        <sys_updated_on>2018-04-16 21:23:50</sys_updated_on>
+    </sys_ui_application>
+</record_update>

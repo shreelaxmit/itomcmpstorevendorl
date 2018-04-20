@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3083e9cddbe1d300457fbff0ef9619cf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier">
+    <cmdb_identifier action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>x_teu_configpuppet_u_cmdb_ci_puppet_enterprise</applies_to>
+        <description/>
+        <independent>true</independent>
+        <name>Puppet Enterprise rule</name>
+        <sys_class_name>cmdb_identifier</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-16 21:47:53</sys_created_on>
+        <sys_id>3083e9cddbe1d300457fbff0ef9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_teu_configpuppet_u_cmdb_ci_puppet_enterprise</sys_name>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>cmdb_identifier_3083e9cddbe1d300457fbff0ef9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-16 21:47:53</sys_updated_on>
+    </cmdb_identifier>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 00:52:22</sys_created_on>
+        <sys_id>5bbd46c9db65d300457fbff0ef96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_teu_configpuppet_u_cmdb_ci_puppet_enterprise</sys_name>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sys_metadata_link_5bbd46c9db65d300457fbff0ef96191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 00:52:22</sys_updated_on>
+        <tablename>cmdb_identifier</tablename>
+    </sys_metadata_link>
+</record_update>

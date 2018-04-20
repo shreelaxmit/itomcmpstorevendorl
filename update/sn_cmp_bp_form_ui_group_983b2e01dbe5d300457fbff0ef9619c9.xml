@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_form_ui_group">
+    <sn_cmp_bp_form_ui_group action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="ApplicationInstller ModifySchedule">c10ba601dbe5d300457fbff0ef961930</bp_cat_form_behavior>
+        <display_order>1</display_order>
+        <name>ModifySchedule</name>
+        <sys_class_name>sn_cmp_bp_form_ui_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 03:01:04</sys_created_on>
+        <sys_id>983b2e01dbe5d300457fbff0ef9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ModifySchedule</sys_name>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sn_cmp_bp_form_ui_group_983b2e01dbe5d300457fbff0ef9619c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 03:01:04</sys_updated_on>
+    </sn_cmp_bp_form_ui_group>
+</record_update>

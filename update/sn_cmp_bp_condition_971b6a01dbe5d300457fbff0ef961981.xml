@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_condition">
+    <sn_cmp_bp_condition action="INSERT_OR_UPDATE">
+        <condition_group_end/>
+        <condition_group_start/>
+        <condition_status>1</condition_status>
+        <condition_type>2</condition_type>
+        <operand>Logical_Datacenter</operand>
+        <operator>1</operator>
+        <order>20</order>
+        <rule display_value="Reload Virtual_Server_SubnetId">5f1b6a01dbe5d300457fbff0ef96196f</rule>
+        <sys_class_name>sn_cmp_bp_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 03:00:43</sys_created_on>
+        <sys_id>971b6a01dbe5d300457fbff0ef961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sn_cmp_bp_condition_971b6a01dbe5d300457fbff0ef961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 03:00:43</sys_updated_on>
+        <value>OpenStack Datacenter</value>
+    </sn_cmp_bp_condition>
+</record_update>

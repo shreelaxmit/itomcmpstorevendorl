@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource">
+    <sn_cmp_bp_stage_resource action="INSERT_OR_UPDATE">
+        <alias_name>Blueprint Container Resource</alias_name>
+        <bp_stage_model display_value="">3952568ddb65d300457fbff0ef96199d</bp_stage_model>
+        <constraint/>
+        <host_ci/>
+        <resource_block display_value="ApplicationInstller Blueprint Resource">8b42168ddb65d300457fbff0ef961910</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 01:12:29</sys_created_on>
+        <sys_id>4652568ddb65d300457fbff0ef9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprint Container Resource</sys_name>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_4652568ddb65d300457fbff0ef9619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 01:12:29</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_bp_stage_resource>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <description>SetValueByScript Virtual_Server_ConfigurationOverrides</description>
+        <event display_value="FieldChange">d60ba601dbe5d300457fbff0ef9619d8</event>
+        <name>SetValueByScript Virtual_Server_ConfigurationOverrides</name>
+        <order>850</order>
+        <source_key display_value="Virtual_Server_ApplicationProfile">d50ba601dbe5d300457fbff0ef96194c</source_key>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 03:00:47</sys_created_on>
+        <sys_id>5c2baa01dbe5d300457fbff0ef96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SetValueByScript Virtual_Server_ConfigurationOverrides</sys_name>
+        <sys_package display_value="ConfigPuppet" source="x_teu_configpuppet">fecc9d85dbe1d300457fbff0ef961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ConfigPuppet">fecc9d85dbe1d300457fbff0ef961942</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_5c2baa01dbe5d300457fbff0ef96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 03:00:47</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>
